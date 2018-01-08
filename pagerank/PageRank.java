@@ -1,10 +1,3 @@
-/*  
- *   This file is part of the computer assignment for the
- *   Information Retrieval course at KTH.
- * 
- *   First version:  Johan Boye, 2012
- */  
-
 import java.util.*;
 import java.io.*;
 
@@ -162,10 +155,6 @@ public class PageRank{
 	//   YOUR CODE HERE
 	//
     }
-
-
-    /* --------------------------------------------- */
-
 
     public static void main( String[] args ) {
 	if ( args.length != 1 ) {

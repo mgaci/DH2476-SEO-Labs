@@ -1,15 +1,3 @@
- /*  
- *   This file is part of the computer assignment for the
- *   Information Retrieval course at KTH.
- * 
- *   First version:  Johan Boye, 2010
- *   Second version: Johan Boye, 2012
- *   Additions: Hedvig Kjellström, 2012-14
- */  
-
-
-package ir;
-
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Set;
